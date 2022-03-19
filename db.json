@@ -4,25 +4,29 @@
       "id": 1,
       "name": "Yogurt",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": false,
+      "isIncart": true
     },
     {
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "isIncart": true
     },
     {
       "id": 3,
       "name": "Lettuce",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "isIncart": true
     },
     {
       "id": 4,
       "name": "String Cheese",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": false,
+      "isIncart": true
     },
     {
       "id": 5,
@@ -35,6 +39,101 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "milk",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "milk",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Vivian Gomez",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "apples",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10,
+      "isIncart": true
+    },
+    {
+      "name": "ice cream",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "ice cream",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 12,
+      "isIncart": true
+    },
+    {
+      "name": "Vivian Gomez",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 13,
+      "isIncart": true
+    },
+    {
+      "name": "Vivian Gomez",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "Vivian Gomez",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 15,
+      "isIncart": true
+    },
+    {
+      "name": "messi",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 16,
+      "isIncart": true
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 17
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 18
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 19
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 20
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 21
     }
   ]
 }
